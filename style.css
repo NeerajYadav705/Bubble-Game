@@ -91,6 +91,9 @@ html,body{
 }
 
 @media (max-width:600px) {
+    #panel{
+        width: 90%;
+    }
     #ptop{
         padding: 0px 10px;
     }
